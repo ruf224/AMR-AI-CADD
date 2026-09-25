@@ -1,0 +1,8 @@
+resource,type,url
+NDM686concise.csv,Published NDM-1 IC50 dataset,https://github.com/georgeyuricadd/IC50-dataset/blob/main/NDM686concise.csv
+NDM-1 paper,Primary publication,https://pubmed.ncbi.nlm.nih.gov/36540675/
+RCSB 4U4L,Experimental NDM-1 inhibitor structure,https://www.rcsb.org/structure/4U4L
+RCSB 6IBS,Experimental NDM-1 inhibitor structure,https://www.rcsb.org/structure/6IBS
+RCSB 6EFJ,Experimental NDM-1 inhibitor structure,https://www.rcsb.org/structure/6EFJ
+RCSB 6MDU,Experimental NDM-1 inhibitor structure,https://www.rcsb.org/structure/6MDU
+TDC ADMET,ADMET benchmark datasets,https://tdcommons.ai/benchmark/admet_group/overview/

@@ -1,0 +1,13 @@
+FINAL ARCHITECTURE
+1. Public curated NDM-1 IC50 dataset
+2. RDKit descriptors + Morgan fingerprints
+3. Random Forest QSAR
+4. RF uncertainty proxy
+5. Tanimoto applicability domain
+6. Scaffold validation
+7. Experimental PDB/Mol* structure inspection
+8. Structure-context heuristic
+9. Conservative analogue generation
+10. ADMET evidence layer
+11. Multi-objective portfolio
+12. CSV research export
